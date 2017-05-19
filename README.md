@@ -6,9 +6,13 @@ Python2.7, caffe, R version > 3.3
 Huber Loss Layer in Caffe
 
 # Generate data
+```sh
 sh main.sh 100
 sh main.sh 400
 sh main.sh 900
+```
 
 # Run experiments
+```python
 python batch_running.py
+```
