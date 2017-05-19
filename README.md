@@ -16,7 +16,7 @@ sh main.sh 900 # generate 5, 20, 50 models with 900 sample size
 
 The following protocol file is an example to run model selection based K=20, N=100 with large model. 
 ```
-dis_20_100_dimension.protocol_distribution
+./protocol/dis_20_100_dimension.protocol_distribution
 ```
 
 ### Run experiments
