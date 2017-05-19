@@ -16,3 +16,7 @@ sh main.sh 900 # generate 5, 20, 50 models with 900 sample size
 ```python
 python batch_running.py
 ```
+
+# Analysis
+
+Log file is saved in the log folder, parsed data in saved in the result folder
