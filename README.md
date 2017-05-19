@@ -1,6 +1,6 @@
 
 ### Prerequisite
-Python2.7, caffe, R version > 3.3
+Linux, Python2.7, Caffe, R version > 3.3
 
 ### Compile New Layer
 Huber Loss Layer in Caffe
@@ -10,6 +10,13 @@ Huber Loss Layer in Caffe
 sh main.sh 100 # generate 5, 20, 50 models with 100 sample size
 sh main.sh 400 # generate 5, 20, 50 models with 400 sample size
 sh main.sh 900 # generate 5, 20, 50 models with 900 sample size
+```
+
+### Protocol file in Caffe
+
+The following protocol file is an example to run model selection based K=20, N=100 with large model. 
+```
+dis_20_100_dimension.protocol_distribution
 ```
 
 ### Run experiments
