@@ -7,9 +7,9 @@ Huber Loss Layer in Caffe
 
 # Generate data
 ```sh
-sh main.sh 100
-sh main.sh 400
-sh main.sh 900
+sh main.sh 100 # generate 5, 20, 50 models with 100 sample size
+sh main.sh 400 # generate 5, 20, 50 models with 400 sample size
+sh main.sh 900 # generate 5, 20, 50 models with 900 sample size
 ```
 
 # Run experiments
