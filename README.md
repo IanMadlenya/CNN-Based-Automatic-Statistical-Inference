@@ -1,4 +1,4 @@
-This code is used for the experiments in the paper [Using Deep Neural Networks to Automate Large Scale Statistical Analysis for Big Data Applications](https://arxiv.org/pdf/1708.03027.pdf). 
+This code is used for the experiments in the paper R. Zhang, W. Deng, Michael Zhu, [Using Deep Neural Networks to Automate Large Scale Statistical Analysis for Big Data Applications](https://arxiv.org/pdf/1708.03027.pdf) ACML 2017. 
 
 ### Prerequisite
 Linux, Python2.7, Caffe, R version > 3.3
