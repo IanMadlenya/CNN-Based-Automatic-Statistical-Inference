@@ -1,3 +1,4 @@
+This code is used for the experiments in the paper [Using DNN to Automate Large Scale SA]{Using Deep Neural Networks to Automate Large Scale Statistical Analysis for Big Data Applications](https://arxiv.org/pdf/1708.03027.pdf). 
 
 ### Prerequisite
 Linux, Python2.7, Caffe, R version > 3.3
